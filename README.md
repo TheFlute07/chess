@@ -1,2 +1,4 @@
 # chess
-A canvas chess-game
+A Chess game created with the javascript's canvas.
+
+--In Dev--
